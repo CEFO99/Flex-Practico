@@ -1,0 +1,31 @@
+.margen {
+    margin: 15px;
+  }
+  
+  .secciones {
+    display: flex;
+    width: 100%;
+    flex: 1, 0 ;
+  }
+  
+  .seccion {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+  }
+
+  .primero {
+    background-color: cornflowerblue;
+    height: 50px;
+  }
+
+  .segundo {
+    background-color: cornflowerblue;
+    height: 450px;
+  }
+
+  .tercero {
+    background-color: cornflowerblue;
+    height: 50px;
+  }
