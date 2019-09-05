@@ -15,17 +15,17 @@
     flex: 1;
   }
 
-  .primero {
+  .arriba {
     background-color: cornflowerblue;
     height: 50px;
   }
 
-  .segundo {
+  .emmedio {
     background-color: cornflowerblue;
     height: 450px;
   }
 
-  .tercero {
+  .abajo {
     background-color: cornflowerblue;
     height: 50px;
   }
